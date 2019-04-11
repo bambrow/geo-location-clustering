@@ -26,5 +26,5 @@ For this project, geo-location clustering in spark, we use Spark as the framewor
 
 3. This project can be extended to some very interesting and useful analysis. With functionality of stream processing, Spark can be helpful to analyze stream data like Twitter and Foursquare. In stream data analysis, location clustering is useful way to compute the geo-location hot spot. More importantly, we can use these data to monitor what is happening around the world, to give much better event report (or prediction), safety reminder, advertisement, and so on.
 
-# Project Report
+## Project Report
 The detailed project report can be found [here](https://github.com/bambrow/geo-location-clustering/blob/master/project_report_github.pdf).
